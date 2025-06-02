@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DinnerDeciderAdmin</string>
+    <string name="food">Food</string>
+    <string name="insert_food">Insert Food</string>
+    <string name="decide">Decide</string>
+    <string name="get_voted_food">Get Voted Food</string>
+</resources>
